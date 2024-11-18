@@ -1,4 +1,5 @@
 # Reti_di_calcolatori
+gioco basato su pong usando UDP, usando il c.
 Per compilare il progetto, utilizza il comando gcc:
 gcc -o server server.c game.c
 gcc -o client client.c game.c
