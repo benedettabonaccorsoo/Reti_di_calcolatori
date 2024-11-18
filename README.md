@@ -7,6 +7,6 @@ Avvia il server con il comando:
 ./server
 Avvia i client con il comando:
 ./client <player_id>
-Dove <player id> pu essere 0 o 1.
+Dove <player id> puo essere 0 o 1.
 Inserisci un numero per spostare la racchetta su o giu.
 Digita exit per chiudere il client.
